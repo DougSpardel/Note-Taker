@@ -32,7 +32,8 @@ npm install
 npm start
 
 https://warm-hollows-13330-66cb7dc52593.herokuapp.com/
-![image](https://github.com/DougSpardel/Note-Taker/assets/85414095/4f310f97-4c08-4bb1-8f18-a2c29a55a9bb)
-![image](https://github.com/DougSpardel/Note-Taker/assets/85414095/0fb94818-a752-4f12-a494-717b72d1f6be)
+<img width="1438" alt="Screenshot 2024-04-03 at 10 59 56 AM" src="https://github.com/DougSpardel/Note-Taker/assets/85414095/70960afd-1f64-42f0-a61a-661dfaf06558">
+<img width="1435" alt="Screenshot 2024-04-03 at 10 58 49 AM" src="https://github.com/DougSpardel/Note-Taker/assets/85414095/502e6a4b-9168-4d4d-ba89-a19f18320786">
+
 
 
