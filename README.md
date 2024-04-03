@@ -1,13 +1,32 @@
-GIVEN a note-taking application
-WHEN I open the Note Taker
-THEN I am presented with a landing page with a link to a notes page
-WHEN I click on the link to the notes page
-THEN I am presented with a page with existing notes listed in the left-hand column, plus empty fields to enter a new note title and the note’s text in the right-hand column
-WHEN I enter a new note title and the note’s text
-THEN a "Save Note" button and a "Clear Form" button appear in the navigation at the top of the page
-WHEN I click on the Save button
-THEN the new note I have entered is saved and appears in the left-hand column with the other existing notes and the buttons in the navigation disappear
-WHEN I click on an existing note in the list in the left-hand column
-THEN that note appears in the right-hand column and a "New Note" button appears in the navigation
-WHEN I click on the "New Note" button in the navigation at the top of the page
-THEN I am presented with empty fields to enter a new note title and the note’s text in the right-hand column and the button disappears
+# Note Taker Application
+
+## Description
+
+This application allows users to create, save, view, and delete notes. It provides a convenient way to keep track of tasks, reminders, or any type of note.
+
+## Features
+
+- **Landing Page:** Upon opening the Note Taker, users are presented with a landing page that includes a link to the notes page.
+- **Notes Page:** Clicking on the link takes users to a page where existing notes are listed on the left, with options to add new notes on the right.
+- **Adding Notes:** Users can enter a new note title and text. A "Save Note" and a "Clear Form" button appear upon note entry.
+- **Saving Notes:** Clicking the "Save Note" button saves the new note, which then appears among existing notes. Navigation buttons are hidden post-save.
+- **Viewing Notes:** Selecting an existing note displays it on the right for easy viewing.
+- **New Note Creation:** A "New Note" button allows users to start a new note, clearing the fields for fresh input.
+
+## How to Use
+
+1. Open the Note Taker to access the landing page.
+2. Navigate to the notes page to view or add notes.
+3. To add a note, fill in the title and note text, then click "Save Note."
+4. Click on any note on the left to view it.
+5. Press "New Note" to start a new note.
+
+
+
+## Installation
+
+Provide steps for installing your application locally.
+
+```bash
+npm install
+npm start
